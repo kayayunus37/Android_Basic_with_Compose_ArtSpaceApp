@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="galata">Galata Tower</string>
+    <string name="artist_galata">Donald Harrison</string>
+    <string name="galata_year">2013</string>
+    <string name="istanbul_bosphorus">Istanbul Bosphorus</string>
+    <string name="artist_istanbul_bosphorus">Gaspare Cantu</string>
+    <string name="istanbul_bosphorus_year">2019</string>
+    <string name="sultan_ahmet">Sultan Ahmet Mosque</string>
+    <string name="artist_sultan_ahmet">Marquette Hérault</string>
+    <string name="sultan_ahmet_year">2011</string>
+    <string name="istiklal">Istiklal Street</string>
+    <string name="artist_istiklal">Aimon Latendresse</string>
+    <string name="istiklal_year">2020</string>
+</resources>
